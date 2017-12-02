@@ -11,4 +11,4 @@ const result = input
         return current === arr[targetIdx] ? total + current : total
     }, 0)
 
-result
+part1
